@@ -6,3 +6,4 @@
 - https://www.curseforge.com/minecraft/mc-mods/betterend
 - https://www.curseforge.com/minecraft/mc-mods/betternether
 - https://www.planetminecraft.com/texture-pack/pink-gold/
+- https://www.curseforge.com/minecraft/mc-mods/mcdw
